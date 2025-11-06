@@ -12,7 +12,7 @@
     <a href="https://www.zhihu.com/people/mo-mo-mei-zhong-tou/"><img src="https://img.shields.io/badge/知乎-默默没中投-blue" /></a>&emsp;
     <img src="https://img.shields.io/badge/QQ-2373660654-green?logo=tencentqq" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=bigorange18&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+    <img src="https://komarev.com/ghpvc/?username=silentmomo03&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 	
 ---
