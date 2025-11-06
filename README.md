@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=010544&background=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=We+learn+from+our+mistakes.)](https://git.io/typing-svg)
-<h3 align="center">A passionate MRse Pattern Recognition and Intelligent Systems student from Suzhou, China</h3>
+<h3 align="center">A passionate MRse Pattern Recognition and Intelligent Systems student from XJTLU, Suzhou</h3>
 
 <div align="center">
   <!-- profile logo 个人资料徽标 -->
