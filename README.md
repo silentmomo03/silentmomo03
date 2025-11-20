@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=010544&background=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=We+learn+from+our+mistakes.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=010544&background=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=We+learn+from+our+failures.)](https://git.io/typing-svg)
 <h3 align="center">A passionate MRse Pattern Recognition and Intelligent Systems student from XJTLU, Suzhou</h3>
 
 <div align="center">
@@ -18,21 +18,23 @@
 	
 ---
 
-<div align="right">
-	<img alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="130" />
-	<img src="./Me.jpg" width="130" />
-	<img src="./our.jpg" width="130" />
-</div>
-	
-### Hello World!  I am <b>Chen Mo<a target="_blank" href="javascript:;"></a></b>
-- :hearts: Passionate about open source software.
-  
-- :1st_place_medal: My projects are trusted by developers.
-
-- :sun_with_face: Highlights of my successful endeavors.
-
- 
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      <div align="left">
+        <h3>Hello World! I am <b>Chen Mo<a target="_blank" href="javascript:;"></a></b></h3>
+        - :hearts: Passionate about open source software.<br/>
+        - :1st_place_medal: My projects are trusted by developers.<br/>
+        - :sun_with_face: Highlights of my successful endeavors.
+      </div>
+    </td>
+    <td valign="top" align="right">
+      <img alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="150" />
+      <img src="./Me.jpg" width="150" />
+      <img src="./our.jpg" width="150" />
+    </td>
+  </tr>
+</table>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
