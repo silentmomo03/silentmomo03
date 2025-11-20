@@ -19,6 +19,7 @@
 ---
 
 <table>
+<table border="0">
   <tr>
     <td valign="top">
       <div align="left">
