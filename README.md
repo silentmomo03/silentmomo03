@@ -23,7 +23,7 @@
 </a>
   <img align="right" src="./Me.jpg" width="150" />
 </a>
-  <img align="right" src="./Us.jpg" width="150" />
+  <img align="right" src="./our.jpg" width="150" />
 <div align="left">
 	
 ### Hello World!  I am <b>Chen Mo<a target="_blank" href="javascript:;"></a></b>
