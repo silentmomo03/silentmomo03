@@ -18,13 +18,11 @@
 	
 ---
 
-<a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
-  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="150" />
-</a>
-  <img align="right" src="./Me.jpg" width="150" />
-</a>
-  <img align="right" src="./our.jpg" width="150" />
-<div align="left">
+<div align="right">
+	<img alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="130" />
+	<img src="./Me.jpg" width="130" />
+	<img src="./our.jpg" width="130" />
+</div>
 	
 ### Hello World!  I am <b>Chen Mo<a target="_blank" href="javascript:;"></a></b>
 - :hearts: Passionate about open source software.
