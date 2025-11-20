@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=010544&background=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=We+learn+from+our+failures.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=010544&background=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=We+learn+from+ou[...]
 <h3 align="center">A passionate MRse Pattern Recognition and Intelligent Systems student from XJTLU, Suzhou</h3>
 
 <div align="center">
@@ -50,7 +50,8 @@
 
 ---
 <!-- 个人学历 -->
-
+<h3 align="center">📚 长江大学 电子信息工程学士</h3>
+<h3 align="center">📚 西交利物浦大学 模式识别与智能系统研究型硕士</h3>
 ---
 
 - 🔭 I’m currently working on ...
