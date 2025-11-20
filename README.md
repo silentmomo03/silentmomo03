@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=010544&background=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=We+learn+from+ou[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=010544&background=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=We+learn+from+our+failures.)](https://git.io/typing-svg)
 <h3 align="center">A passionate MRse Pattern Recognition and Intelligent Systems student from XJTLU, Suzhou</h3>
 
 <div align="center">
@@ -50,10 +50,30 @@
 
 ---
 <!-- 个人学历 -->
-<h3 align="center">📚 长江大学 电子信息工程学士</h3>
-<h3 align="center">📚 西交利物浦大学 模式识别与智能系统研究型硕士</h3>
----
+<div align="left">
+  <h3>EDUCATION</h3>
+  <p>📚 9/2021 – 6/2025, B.Eng Electronic Information Engineering, Yangtze University</p>
+  <p>📚 9/2025 - Present, MRse Pattern Recognition and Intelligent Systems, Xi'an Jiaotong-Liverpool University</p>
+</div>
 
+---
+<!-- 荣誉奖项 -->
+<div align="left">
+  <h3>HONORS & AWARDS</h3>
+  <p>🏅 2024 Yangtze University First-Class Scholarship</p>
+  <p>🏅 2024 China College Student Computer Design Competition (Internet of Things Special Competition) – National Second Prize</p>
+  <p>🏅 2024 Challenge Cup College Student Extracurricular Academic and Technological Works Competition (揭榜挂帅) – National Third Prize</p>
+  <p>🏅 2023 Challenge Cup College Student Extracurricular Academic and Technological Works Competition (揭榜挂帅) – National Third Prize</p>
+</div>
+
+---
+<!-- 出版物 -->
+<div align="left">
+  <h3>PUBLICATIONS</h3>
+  <p>📝 Working hard on it. Coming soon!</p>
+</div>
+
+---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
