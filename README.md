@@ -23,15 +23,17 @@
     <td valign="top">
       <div align="left">
         <h3>Hello World! I am <b>Chen Mo<a target="_blank" href="javascript:;"></a></b></h3>
-        - :hearts: Passionate about open source software.<br/>
-        - :1st_place_medal: My projects are trusted by developers.<br/>
-        - :sun_with_face: Highlights of my successful endeavors.
+        - 😄 Passionate about open source software.<br/>
+        - 👯 Enjoys cooperating with others.<br/>
+        - :sun_with_face: Respect for every scientific researcher.<br/>
+		- 🌱 Focus on life and improve myself.<br/>
+		- :1st_place_medal: My projects are trusted by developers.
       </div>
     </td>
     <td valign="top" align="right">
-      <img alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="160" />
-      <img src="./Me.jpg" width="160" />
-      <img src="./our.jpg" width="160" />
+      <img alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="180" />
+      <img src="./Me.jpg" width="180" />
+      <img src="./our.jpg" width="180" />
     </td>
   </tr>
 </table>
