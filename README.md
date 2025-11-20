@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=010544&background=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=We+learn+from+ou[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=010544&background=FFFFFF&center=true&vCenter=true&width=1000&height=80&lines=We+learn+from+our+mistakes.)](https://git.io/typing-svg)
 <h3 align="center">A passionate MRse Pattern Recognition and Intelligent Systems student from XJTLU, Suzhou</h3>
 
 <div align="center">
@@ -19,9 +19,9 @@
 ---
 
 <a href="https://img-blog.csdnimg.cn/2019122617442217.gif">
-  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="180"/>
+  <img align="right"  alt="GIF" src="https://img-blog.csdnimg.cn/2019122617442217.gif" width="180" style="margin-right: 15 px;"/>
 </a>
-<img align="right" src="./Me.jpg" width="180" style="margin-right: 30px;" />
+  <img align="right" src="./Me.jpg" width="180" />
 <div align="left">
 	
 ### Hello World!  I am <b>Chen Mo<a target="_blank" href="javascript:;"></a></b>
@@ -44,10 +44,7 @@
 </div>
 
 ---
-<!-- GitHub 奖杯🏆 -->
-<div align="center">
-	<img  src="https://github-profile-trophy.vercel.app/?username=silentmomo03&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
-</div>
+<!-- 个人学历 -->
 
 ---
 
@@ -59,4 +56,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+---
