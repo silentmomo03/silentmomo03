@@ -23,7 +23,7 @@
   <tr>
     <td valign="top">
       <div align="left">
-        <h3>Hello World! I am <b>Chen Mo<a target="_blank" href="javascript:;"></a></b></h3>
+        <h3>Hello World! I am <b>Chen Mo.<a target="_blank" href="javascript:;"></a></b></h3>
         - 😄 Passionate about open source software.<br/>
         - 👯 Enjoys cooperating with others.<br/>
         - :sun_with_face: Respect for every scientific researcher.<br/>
