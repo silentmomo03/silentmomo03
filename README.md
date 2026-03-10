@@ -51,7 +51,7 @@
 <div align="left">
   <h3>EDUCATION</h3>
   <p>📚 9/2021 – 6/2025, B.Eng Electronic Information Engineering, Yangtze University</p>
-  <p>📚 9/2025 - Present, MRse Pattern Recognition and Intelligent Systems, Xi'an Jiaotong-Liverpool University</p>
+  <p>📚 9/2025 - Present, MRes Pattern Recognition and Intelligent Systems, Xi'an Jiaotong-Liverpool University</p>
 </div>
 
 ---
