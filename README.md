@@ -23,7 +23,7 @@
       <div align="left">
         <h3>Hello World! I am <b>Chen Mo.<a target="_blank" href="javascript:;"></a></b></h3>
         - 😄 Passionate about open source software.<br/>
-        - 👯 Enjoys cooperating with others.<br/>
+        - 👯 Enjoy cooperating with others.<br/>
         - :sun_with_face: Respect for every scientific researcher.<br/>
 		- 🌱 Focus on life and improve myself.<br/>
 		- :1st_place_medal: My projects are trusted by developers.
