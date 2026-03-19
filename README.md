@@ -7,9 +7,7 @@
   <div align="center">
     <a href="https://www.instagram.com/silentchen003/"><img src="https://img.shields.io/badge/Instagram-silentchen003-CC6CE7" /></a>&emsp;
     <a href="https://github.com/silentmomo03"><img src="https://img.shields.io/badge/GitHub-silentmomo03-373232?logo=github" /></a>&emsp;
-    <a href="https://space.bilibili.com/81519969/"><img src="https://img.shields.io/badge/Bilibili-傻不拉叽的默默-ff69b4" /></a>&emsp;
     <a href="https://blog.csdn.net/qq_64736865?spm=1000.2115.3001.5343/"><img src="https://img.shields.io/badge/CSDN-默默无闻的默默-F56200" /></a>&emsp;
-    <img src="https://img.shields.io/badge/QQ-2373660654-green?logo=tencentqq" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=silentmomo03&label=Views&color=8D6F64&style=flat" alt="访问量统计" />
   </div>
