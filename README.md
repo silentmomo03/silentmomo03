@@ -70,3 +70,6 @@
 </div>
 
 ---
+<div align="left">
+  <h3>CONTACT</h3>
+📫 Email: Mo.Chen25@student.xjtlu.edu.cn
